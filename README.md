@@ -1,6 +1,6 @@
 # Water Quality Clustering — Aprendizaje No Supervisado
 
-Este README documenta un proyecto de aprendizaje no supervisado que aplica algoritmos de clustering para descubrir perfiles fisicoquímicos naturales en muestras de agua, sin usar la etiqueta de potabilidad.
+Este proyecto es un ejercicio de aprendizaje no supervisado que aplica algoritmos de clustering para descubrir perfiles fisicoquímicos naturales en muestras de agua, sin usar la etiqueta de potabilidad.
 
 ## Detalles del Proyecto
 
